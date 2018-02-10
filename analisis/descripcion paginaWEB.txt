@@ -1,0 +1,12 @@
+Descripcion de la pagina
+
+Es una pagina web que se encarga en publicar compra y venta de videjuegos que 
+los ususarios de distintas plataformas ya sea nintendo,xbox,playsattion
+que los ususarios ya no deseen tenerlos 
+
+esto sera posible mediante publicaciones con la descripcion del producto,precio
+ y el nombre del ususario que lo esta ofertando asi como un basar pero de diveojuegos
+tanto para consolas como juegos
+para eso se necesita un ususario para validar que los datos sean creibles
+en el ussuario este proporcionara su nombre completo, telefono correo electonico
+para que los compradores  se pongan en contacto con el vendedor.
